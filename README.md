@@ -1,1 +1,1 @@
-If there are any errors please report it!
+This Script is patched.
